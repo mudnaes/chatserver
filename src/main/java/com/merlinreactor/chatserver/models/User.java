@@ -8,6 +8,7 @@ import javax.persistence.Id;
 
 /**
  * The type User.
+
  */
 @Entity
 public class User {
